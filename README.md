@@ -4,3 +4,7 @@ This was an exercice proposed in a collegue class (the game definition and pygam
 
 
 ![alt text](https://github.com/MrCabss69/LightsOut/blob/main/resources/Screenshot%20from%202022-12-31%2011-50-54.png?raw=true)
+
+## Resources - what the game it's about
+
+https://en.wikipedia.org/wiki/Lights_Out_(game)
